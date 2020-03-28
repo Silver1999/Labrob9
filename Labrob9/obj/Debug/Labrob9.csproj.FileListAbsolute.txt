@@ -1,0 +1,5 @@
+C:\Users\Misha\Desktop\Labrob9\Labrob9\Labrob9\obj\Debug\Labrob9.csprojAssemblyReference.cache
+C:\Users\Misha\Desktop\Labrob9\Labrob9\Labrob9\bin\Debug\Labrob9.exe
+C:\Users\Misha\Desktop\Labrob9\Labrob9\Labrob9\bin\Debug\Labrob9.pdb
+C:\Users\Misha\Desktop\Labrob9\Labrob9\Labrob9\obj\Debug\Labrob9.exe
+C:\Users\Misha\Desktop\Labrob9\Labrob9\Labrob9\obj\Debug\Labrob9.pdb
